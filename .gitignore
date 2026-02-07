@@ -1,0 +1,40 @@
+cat <<EOF > .gitignore
+# Prerequisites & Dependencies
+*.d
+
+# Object files & Libraries
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.lo
+
+# Executables & Artifacts
+*.elf
+*.hex
+*.bin
+*.map
+*.lss
+*.sym
+*.srec
+
+# Debugging & Temp
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+
+# Build Directories
+build/
+bin/
+obj/
+debug/
+release/
+
+# IDE Specific (Just in case)
+.vscode/
+.idea/
+EOF
