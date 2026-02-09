@@ -1,6 +1,6 @@
-# 📦 Release Notes: v1.0.0 (Gold Master)
+# 📦 Release Notes: v3.1.0 (GitHub Migration)
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/AbdelrahmanArafa)
+[![Release](https://img.shields.io/badge/Release-v3.1.0-blue.svg?style=for-the-badge&logo=github)](https://github.com/AbdelrahmanArafa)
 [![Date](https://img.shields.io/badge/Date-2026--01--30-lightgrey.svg?style=for-the-badge&logo=calendar)](https://github.com/AbdelrahmanArafa)
 [![Safety](https://img.shields.io/badge/Safety-Audited-success.svg?style=for-the-badge&logo=shield)](https://github.com/AbdelrahmanArafa)
 
@@ -19,6 +19,17 @@ This milestone release prioritizes **Reliability**, **Safety**, and **System Sta
 
 ---
 
+
+## 📅 Version History
+
+| Version | Date | Milestone | Description |
+| :--- | :--- | :--- | :--- |
+| **v3.1.0** | **Feb 2026** | **GitHub Migration** | Migration to GitHub, Refactoring, and Documentation Update. |
+| **v3.0.0** | **Nov 2024** | **Stable Release** | Final System Integration & Application Logic. |
+| **v2.0.0** | **Aug 2024** | **Peak Development** | HAL Layer Integration & Peak Development. |
+| **v1.0.0** | **Mar 2024** | **Kickoff** | Project Kickoff & MCAL Layer Implementation. |
+
+---
 ## � Bug Fixes
 
 ### � SPI Communication Logic

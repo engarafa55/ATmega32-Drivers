@@ -1,10 +1,19 @@
 # 🚀 ATmega32 Drivers Repository
 
-![Badge](https://img.shields.io/badge/Platform-ATmega32-green)
-![Badge](https://img.shields.io/badge/Architecture-AVR-blue)
-![Badge](https://img.shields.io/badge/Language-Embedded_C-orange)
-![Badge](https://img.shields.io/badge/Layer-MCAL_%7C_HAL-purple)
-![Badge](https://img.shields.io/badge/License-MIT-yellow)
+![Language](https://img.shields.io/badge/Language-Embedded_C-blue?style=for-the-badge) ![Platform](https://img.shields.io/badge/Platform-ATmega32_%2F_AVR-orange?style=for-the-badge) ![Timeline](https://img.shields.io/badge/Timeline-Mar_2024_--_Nov_2024-purple?style=for-the-badge) ![Migration](https://img.shields.io/badge/Migration-Feb_2026-green?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Stable-green?style=for-the-badge)
+
+
+## ⚠️ Project Status
+
+> [!NOTE]
+> **This project is a legacy codebase developed in 2024 and migrated to GitHub in 2026 for portfolio verification.**
+> 
+> *   **Original Development Period:** March 2024 – November 2024.
+> *   **Migration Date:** February 2026.
+> 
+> The repository serves as an archival snapshot of my engineering capabilities during that period. Active development has concluded.
+
+---
 
 ## 📝 Overview
 
